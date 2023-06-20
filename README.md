@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phoebe
 - 👀 I’m interested in front end web designing/programming
-- 🌱 I’m currently learning HTML, CSS, JS and gradually move to learning React, Angular, bootstrap, sass and so on
+- 🌱 I’m currently learning HTML, CSS, JS and will gradually move to learning React, Angular, bootstrap, sass and so on
 - 💞️ I’m looking to collaborate on projects concerning front end designs, with sound minds to enhance my front-end knowledge and skills
 
 
